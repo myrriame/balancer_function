@@ -4,6 +4,8 @@ Background: A​​balanced ​​pair​ ​of ​​braces ​​is​​ one�
 
 Assignment: Write​​ a​​ function​​ that​​ takes ​​a​​ string​​ and​​ returns ​​the​​ index ​​of​​ the ​​first​​ brace​​ that​​ breaks ​​its​​ balance(or​​ returns​​ the special​​ value​​​ -1​​​ if​​ the ​​string​ ​is ​​balanced).​​The ​​first​​ brace​​ that ​​breaks​​ the​​ balance is​​ the​​ brace ​​closest​​ to​​ the​​ start​​ of​​ the​​ string​​ that ​​isn’t​​ part​​ of ​​a​​ balanced​​ pair.Please ​​state​​ any​​ additional​​ assumptions ​​you ​​make​​ and ​​try​​ to ​​make ​​your ​​function​ ​as ​​efficient ​​as you​ ​can. ​​For ​​extra​​cred it,​​write​ ​unit​ ​tests
 
+![Screenshot](examples.png)
+
 Input           Expected​​ output       Why?
 hello​​world        -1                  Input​​ is​​ balanced
 {}                -1                  Input​​ is​​ balanced
